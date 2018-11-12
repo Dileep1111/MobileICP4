@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_d81ac5902e41872c34be2786ed725217272d5e7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/f392ee232bc2da97b543a36961bfc694f53773e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9577d3ef64e6e63358cbee2dd3dcba0be8e32ec9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/e5692393bf2c844dc37e2309264d59e70bec8fc5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_96ca8308408e0b1ed83a789049551bf550ff778e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/760187f9761c5613f812b094fab2cf0a23f233d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6704bc9732f1ddf75573214df7b92c3c99b64754/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/27016ef8919598431d786fbff54c174d159163cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3dc9e41ed5821ce5820e023637492200470ffeb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b55696e90927b0037a039967ad5f26622e829a2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/7ba4595cb98cb0c98c6ca5c6c4922def4f89002e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ed3a6f1152950f7769e2de00bb10f8b1b4dc99f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/d6c83c16e443873d9f19751ec2c9f01ba8b75722/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83cb624caa25e3e8de39699215770190e015f208/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/01869dee11510a20f87095b4c8811a4445dad24c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a24402db4fb214e953a64f7adb8dff69f00b3669/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/bafdd0c95356b1b8839b1223c8f19139cdf3f051/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7781193bafb39c740c0d300d76eacbf3b0f2a85a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/22a42fb869a35934475affd5df270b987f97e20f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5bd245f81922d828821ad78ef07b23bc42bb3de7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/1313f064a8bfc2a51daf0ca8c3792bd2464fd481/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22095d4783828b7ee59d4bbcc63053a229e5a967/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/355366510a8735e4017902d9f1658003f7068399/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f717633386f1f25324d7fde1521cbba9ee4f5c23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/63832c7d61eeb58b549fcf23af496bdb67d95c56/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6260de3eb29a9128b2fafb4ac5831d98d5265e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/94c71ff24c93f20fad43fbede09e735a71bdd5dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_091762b3a5331e2423a659405018a47c90430e1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/336f84eef24b4648a2bfd7aa6eb53eacdc1e8d99/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d98de63c97801321b638a2de4e14439a768f48c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_33ed1a54a33eeb880d8feaf8e99cf9f3f6b07729/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/1a4c5bb036ed248442daebc36b348b754879a25e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c96cd041e10d2ae091d435d25a30738a4e8814a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/799c37a2e916321fa27c6a7592864b40ca59da3c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bbcdf0cd29d8b231ce630c0c5135c2d9614e557b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/04a3c36ce91db506d9c5474eac626a69349cf283/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7de6d50f3353573518a3c8f1242fa985263f8d8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/34cc7c0e507ef94179202af2dcff82ebf6ea2c23/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6f4af0ba0868f4c33a57f21c6fbaec64fc4a328/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/16c1f3a405bc8825352a74e7de62800523a2277e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c80cb386a0cf38ce10e86d5ce085f31899ddba15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/07295119944e5e8b68beaac8a9274023ecf08415/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a807cf2cda331fb2d0e9c869fbb15a192b442842/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/da79bb0e9c48ed56d05b81bfa77e86630334554f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58c242f83cc284cae90c7ab601c8358c2095ba4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/6510061be76ba5a4ebd3984028b01f1790dc2adb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59e45303a5706c9c22d0c0a33659c55c0970c234/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/043397bf25a151f60a990bd8907ea692719d6676/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f92150d59130d490ad06e1a31794af559fc3c9d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/bb018ce4168deb3b72fa1da44e6c8c44be008aaf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a86117e18d42aa81034d3c23de4ca7831843a1d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/839cf7e717f81fc5a8fc5570383534afbfbbcc32/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff87b4ec9c30b9f05fb15b72bae46c7c85ec1d54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/b6ac3dfe848fe2f724e7f34def81d07511097a4a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d53f44ff16a6dc2bf3a0e457324eb365d0e56cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/0ff969eeb19cf3638e72cc9643ebc609be3e11c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a0f2ba88d7ec5fe1cc12ca4f8389e05a9a6a4722/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/0f967b52463a016d77a65ceaa1794a40a3e98a92/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5e66de3704f9c2382fa7cad43bebd3df2c68c04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/c0e25c3179fcda87fecc6fec4cd11f28515a62ce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e20a3b774f29a89afc6d17b641aafe09340a69c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/35922733a53890d046678cd5fd99ee7f3c9275b6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48b0a50e96856cb53c779a844e98dc34b53a9673/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/0c1d562753338acfb9f5fea66a079f8844406523/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aba04b1d3744880de625049260dbd59f1abc009c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/9f2c728e779fb5b062de0865fc062f2320f96de5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e41649757935fedd44834f5bb21131f3b08eba21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/7b59ff8b1adeed7b1a40664018535e03ef8cab90/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9a0246e866c23ee99c7d3c29bbead22112f2856/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/88c45970f1c13d60cac5cda21cec5241d3674578/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3336694afde8806db3c764bcd172911e54e32cb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/2ebdafd8f85b5013ec243d2e029d88211fd34c34/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a0e45893b8bdb5ebb03b52ec408d6266061bb255/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/f8b90d1f932722d75c6050db9484bb67b4d85adf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4bddeed7698fbae1f574cc20e47533707320edb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/fd214d85b13586911b5c45827f4bf8f639df53c1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9199d0d35d0329f36303a17355dbce2bdb7b2e18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/cc632627ffba8179bd915e5c3f86ae4f1b0b41eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b37c631b9bc8ae66dd731929674f691bbab4a1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/9f748685d37ca60a7a4033a8f5fe816a3cf4b36c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_051817273685c25632f27842afe8c00a587cc980/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/53242644fccf2e7a530d6ceb5a91835d07860398/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b79e097177d84236cdae87bbfed011e5818f632f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/5c48f266bc80cb20a71620a432fd369c90db4f64/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_545c369a5c46f59132429dd3265a23ed75d0becb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/99ed92ca472fa18798c213c04164cdf8abe3cb1a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa36980d4d58e50d20b7f338aed278ef210bbf96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/3f656c8b3cca1714d5e420f922caaa86c3de7766/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d89ca90085026bcb2561896ef384cc0f89cb2644/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/8fa5b6584655a2798faa5bf6f3ea3385d2365acd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8e9cfe4d60f8f393accd375defda6e09f88fc1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/98e67eb467f364a6fa3c95b57bdfea15195725b2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_403a0a771ce0afaebdadb76f63d505def6318576/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/da8880ff375510b272ecb839cebe5bdf599fc1ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f51ad0c3447f1fc3ba461911fcfb20f2f77d53d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/9cf96dd397369e125f0e9d6146ec546b7762052f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24cdf53e9551d1b2b65a110a2a8be06542b9642d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/94a5ebd72ed36e5bd293b59a14f0f01a379c960d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b401e08c229ba9e0b5e21e052ad63e63c34c2d4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/abea92dc901957f30c392b4ce15f8402e5618d53/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_851cd98d7d42b9220f7ec9938ffe6813011a3619/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/1519a8eab94de60758142d5742160fc3247b004a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1fc40b3d59b7a71c7b7672207ff78a2c22c60ca0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/bb5671219d53b3cb3d25951485bde5280b48b72c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38e436c50d46b9044a74f0cab024e7bab0d97394/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/192255baef655c3f2626b4bf0b8d5ebbf1cbbf80/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d7e5dec326e9b51e30e7b46513c4ec6b6d4dce2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/638f8e8687b0ff9d285af15531a5e734921a794c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2f5454e88baf213292adf6f29e7520c051a3b03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/fc3d545e73bc6a4fbf3d3be6384f9205d87f7878/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36b80a901674531901282cb0317850128192c63d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/29e0a26f6e209d2797e847596f2d294b80744c24/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_82cca0ed6023c8710a5cde2879c2c4fbc318dfcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/25d2285e1d4192b05182b6bad3ad775c78d7ceed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ed9c993cc2eaa7964d6c2badfed37b3518d19ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/c699d7c79ace44deb251e7bc558b35068705c8eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d8e85fb94ea004b1d372df5e8f5a09573600a50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/debd7b7a4766af9185589d6d84c8cc6da1b32b3c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_648b0356c3c868503518175f94f56070b19f1342/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/efa06c5c73f291ae12de83747df039757e42c5ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b30b1e3cf5dfed1528f534aba9ed398d9b66c437/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/ca336fe859981738300a958f1c789e2d94809143/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc4293ff253a4ddc4c66c86c59b2a0a11fb1cb7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/eb94f6f1c57fb6fb041f21d87f0d264960130ecb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2180be917c431e4517f5a87944ba067f4b90de31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="69e8fd6eac9a61e0b3b61661077613711dc04753">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2b9275793dab6e6c38109ebd81e9ad31acca03df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/92413df48c1bc1bb95a0982088e1b7107f057b16/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27da6f3a1365f260bad9cfdc6e32d1ee26feed15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dileesign/.android/build-cache/10c9c79f61427090d77f7137f456bc12ce219c14/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Volumes/dilees/FallSem/WEBMOBILE/mobile_ICP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed2851211fc81278d300cf57dabaff7c0035f1ee/classes.dex" />
+    </item>
+
+</items>
